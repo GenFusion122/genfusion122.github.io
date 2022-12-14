@@ -30,10 +30,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h3, h4 {
-  color:#9bb078;
+  color: $secondary-color;
+
 }
 h1 {
   color: $bold-color;
+  text-decoration: underline;
 }
 
 a {
@@ -204,6 +206,8 @@ blockquote {
 }
 
 //Progress Bar
+
+
 .progress-gallery {
   display: flex;
   float:left;
@@ -212,6 +216,7 @@ blockquote {
   width: 100%;
   padding-bottom: 30px;
 }
+
 .container {
   margin: 5px auto;
   padding-right: 5%;
@@ -236,7 +241,7 @@ blockquote {
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
 }
-
+/*
 .progress-bar {
   height: 16px;
   border-radius: 4px;
@@ -275,7 +280,7 @@ blockquote {
 .progress-bar#eighty {
   width: 80%;
   background-color: #3eaa0c;
-}
+}*/
 
 
 //Navbar
@@ -288,8 +293,36 @@ blockquote {
   color: $brand-color;
 }
 .navbar a:hover {
-  border: 2px solid $brand-color ;
+  border: 2px solid $brand-color;
   background-color: $brand-color;
   border-radius: 10px;
   color: $body-bg-dark;
+}
+
+// Coloured Circle
+/*
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot#Beginner {
+  background-color: rgb(255, 166, 1);
+}
+.dot#Experienced {
+  background-color: rgb(73, 255, 1);
+}
+
+.dot#Intermediate {
+  background-color: rgb(255, 251, 1);
+}
+*/
+
+.change-color {
+  font-size: small;
+  vertical-align: middle;
+  padding-bottom: 6px;
+  color: $brand-color;
 }

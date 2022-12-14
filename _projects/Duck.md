@@ -14,7 +14,6 @@ Simple `Java` based Task Scheduling CLI Application.
 ### Techstack
 - **Backend**: Java
 - **Frontend**: JavaFX
-- **CI/CD**: Codecov
 
 
 ### Highlights
