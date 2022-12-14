@@ -18,7 +18,9 @@ Personally I'm someone who works hard, this is shown through my academic journey
 </p>
 </div>
 
-### Education
+
+
+### <i class="fa fa-graduation-cap"></i>  Education 
 - **National University of Singapore** (2021 - Now) 
   - Bachelor of Computing, Computer Science 
   - NUS Orbital Project Summer 2022
@@ -32,45 +34,46 @@ Personally I'm someone who works hard, this is shown through my academic journey
   - Certificate with *Merit* in Info-Communications Technology  
   - Directors List Award (All Semesters)
 
-### Experience
+### <i class="fa fa-briefcase"></i> Experience
 - **Singapore Airlines** (Mar 2018 - Aug 2018)
   - Robotics Process Automation (RPA) Intern
   - Facilitated the Engineering Study for RPA Software within SIA
   - Developed RPA scripts for certain processes within the organization
 
 
-### Skills
+### <i class="fa fa-chart-line"></i> Skills
+
 <div class="progress-gallery">
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-code change-color"></i>
   <text> C# </text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-code change-color"></i>
   <text> Java </text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-code change-color"></i>
   <text> SQL</text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-code change-color"></i>
   <text> C</text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-code change-color"></i>
   <text> C++</text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-code change-color"></i>
   <text> Flutter</text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-bars change-color" id="bars"></i>
   <text> SDLC Practices</text>
 </div>
 <div class="container">
-  <i class="fa fa-plus change-color"></i>
+  <i class="fa fa-bars change-color" id="bars"></i>
   <text> UML Notations/Diagrams</text>
 </div>
 </div>
