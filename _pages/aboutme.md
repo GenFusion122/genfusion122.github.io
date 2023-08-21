@@ -40,6 +40,13 @@ Personally I'm someone who works hard, this is shown through my academic journey
   - Facilitated the Engineering Study for RPA Software within SIA
   - Developed RPA scripts for certain processes within the organization
 
+- **Emerson Automation Solutions** (Jul 2023 - Aug 2023)
+  - Internship as a Fullstack Chatbot Developer
+  - Curated and structured data for the purpose of training the QA chatbot
+  - Engineered the chatbot leveraging Machine Learning and Natural Language Processing 
+  - Trained the chatbot using the gathered data  
+  - Developed a User Interface for the chatbot for user testing
+
 
 ### <i class="fa fa-chart-line"></i> Skills
 
@@ -70,11 +77,11 @@ Personally I'm someone who works hard, this is shown through my academic journey
 </div>
 <div class="container">
   <i class="fa fa-bars change-color" id="bars"></i>
-  <text> SDLC Practices</text>
+  <text> AI/ML</text>
 </div>
 <div class="container">
   <i class="fa fa-bars change-color" id="bars"></i>
-  <text> UML Notations/Diagrams</text>
+  <text> Natural Language Processing</text>
 </div>
 </div>
 

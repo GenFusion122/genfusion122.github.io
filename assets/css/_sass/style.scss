@@ -55,6 +55,10 @@ b, strong {
   color: $bold-color
 }
 
+i{
+  font-size: 0.8*$base-font-size;
+  font-style: italic;
+}
 p a {
   color: $text-color;
   text-decoration: none;
