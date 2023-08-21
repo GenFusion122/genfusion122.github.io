@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Emerson Chatbot
-description: Greenfield Machine Learning Chatbot
-image: https://raw.githubusercontent.com/GenFusion122/GenFusion122.github.io/main/assets/images/EmersonChatbot.svg
+description: Machine Learning Chatbot
+image: https://raw.githubusercontent.com/GenFusion122/GenFusion122.github.io/main/assets/images/EmersonChatbot.png
 ---
 
 
