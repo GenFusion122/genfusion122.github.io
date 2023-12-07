@@ -8,10 +8,9 @@ description: RESTful Microservice-based Web Application
 
 ### Description
 Developed for the CS3219 (Software Engineering Principles and Patterns) Team Project.
-
 PeerPrep is a Microservice-based Web Application that allows up to two programmers to collaborate on questions simultaneously. 
 
-Primary features:
+### Primary Features
 - Question repository for users to answer
 - Collaboration space for two programmers 
 - Chat functionality between users

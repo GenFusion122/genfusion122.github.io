@@ -1,21 +1,28 @@
 ---
 layout: post
-title: Emerson Chatbot
-description: Machine Learning Chatbot
+title: Q&A Chatbot
+description: Machine Learning Classification Chatbot
 image: https://raw.githubusercontent.com/GenFusion122/GenFusion122.github.io/main/assets/images/EmersonChatbot.png
 ---
 
 
 > Justin showed a willingness to learn and adapt to new challenges. He was able to research and implement solutions in areas where he initially had little experience.  
 >
-> Sivakumar R, Director at Emerson 
+> Sivakumar R, Director at Emerson Automation
 
 <i>*Full referral letter available on request</i>
 
 ### Description
-Developed during summer internship with Emerson Automation Solutions as part of their digital innovation initiative.
-Entirely developed with Python, utilizing many common machine learning libraries like Sklearn and PyTorch. 
+Developed during summer internship with **Emerson Automation Solutions** as part of their digital innovation initiative.
+Entirely developed with `Python`, utilizing machine learning libraries such as `Sklearn` and `PyTorch`. 
 Supporting scripts to scrape data was also developed in order to create a viable data set. 
+
+### Features
+- GUI to ask questions to the chatbot
+- Textual responses through a classification model
+- Suggested questions to ask
+- Modularized messages to allow ease of editing
+
 
 ### Techstack
 - **Language**: Python

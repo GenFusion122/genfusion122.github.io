@@ -1,8 +1,8 @@
 /* Project Page */
 .ProjectContainer {
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 3rem;
 }
 
 .gallery {
@@ -29,9 +29,11 @@
   vertical-align: bottom;
   text-align: center;
   cursor: pointer;
+  border: 3px solid $projectbox-text;
+  border-radius: 15px;
 }
 
-.projectTile a span {
+.projectTile a div {
   display: flex;
   justify-content: center;
 }
@@ -77,6 +79,7 @@
   vertical-align: middle;
   align-items: center;
 	transition: transform 400ms ease-out;
+  height: 150px;
 }
 
 .projectTile:hover .overlay {

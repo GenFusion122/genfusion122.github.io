@@ -13,7 +13,7 @@ Developed for the NUS 2022 Summer [Orbital Program](https://orbital.comp.nus.edu
 
 Mobile scheduling application built for `Android` using `Flutter` 
 
-Primary features:
+### Primary features
 - Calendar Scheduling
 - Task Entries
 - Journal Entries
